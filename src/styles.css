@@ -6,7 +6,8 @@ html, body {
   margin: 0;
   border: 0;
   padding: 0;
-  background-color: #727272;
+  background-image: url("web bagground.png");
+  background-repeat: repeat;
 }
 
 main {
