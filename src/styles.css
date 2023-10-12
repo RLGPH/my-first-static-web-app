@@ -22,5 +22,7 @@ main > h1 {
 }
 
 footer{
-  margin: 25px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-left: 25px;
 }
