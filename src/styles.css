@@ -37,3 +37,10 @@ footer > h6{
   padding-left: -25px;
   padding-right: 25px;
 }
+footer > h5{
+  text-align: right;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  padding-left: -25px;
+  padding-right: 25px;
+}
