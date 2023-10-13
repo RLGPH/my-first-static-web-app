@@ -14,7 +14,7 @@ main {
   margin: auto;
   width: 50%;
   padding: 20px;
-  background-color: rgba(0, 0, 0, 0.19);
+  background-color: rgba(0, 0, 0, 0.40);
 }
 
 main > h1 {
@@ -26,7 +26,7 @@ footer{
   margin-top: 15px;
   margin-bottom: 20px;
   padding-left: 25px;
-  background-color: rgba(0, 0, 0, 0.19);
+  background-color: rgba(0, 0, 0, 0.40);
 }
 
 footer > h5{
