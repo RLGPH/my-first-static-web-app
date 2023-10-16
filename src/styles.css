@@ -23,7 +23,6 @@ main > h1 {
 }
 
 maintext > h2{
-  text-align: center;
   background-color: rgba(0, 0, 0, 0.40);
   width: 52.6%;
 }
