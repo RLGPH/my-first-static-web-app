@@ -37,6 +37,6 @@ part69 > h6{
   font-size: 20px;
   margin-top: -95px;
   margin-bottom: 5px;
-  padding-left: -25px;
+  padding-left: unset;
   padding-right: 25px;
 }
