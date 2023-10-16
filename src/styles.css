@@ -22,6 +22,10 @@ main > h1 {
   font-size: 3.5em;
 }
 
+maintext > h2{
+  text-align: center;
+}
+
 footer{
   margin-top: 15px;
   margin-bottom: 20px;
@@ -29,11 +33,11 @@ footer{
   background-color: rgba(0, 0, 0, 0.40);
 }
 
-footer > part69{
+footer > kontaktinfo1{
   text-align: right;
 }
 
-part69 > h6{
+kontaktinfo1 > h6{
   font-size: 20px;
   margin-top: -95px;
   margin-bottom: 5px;
