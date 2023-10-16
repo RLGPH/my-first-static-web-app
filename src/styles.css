@@ -45,3 +45,10 @@ kontaktinfo1 > h6{
   padding-left: unset;
   padding-right: 25px;
 }
+
+footer > languagesprogrammed{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+} 
