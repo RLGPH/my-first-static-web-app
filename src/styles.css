@@ -25,10 +25,10 @@ main > h1 {
 imageofprojects > p{
   background-color: rgba(0, 0, 0, 0.40);
   width: 52.6%;
-  margin-left: 50px;
+  margin-left: 364px;
 }
 
-maintext > h2{
+maintext > p{
   background-color: rgba(0, 0, 0, 0.40);
   width: 52.6%;
 }
