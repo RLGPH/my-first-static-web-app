@@ -34,11 +34,11 @@ footer{
   background-color: rgba(0, 0, 0, 0.40);
 }
 
-footer > kontaktinfo1{
+footer > kontaktinfo{
   text-align: right;
 }
 
-kontaktinfo1 > h6{
+kontaktinfo > h6{
   font-size: 20px;
   margin-top: 55px;
   margin-bottom: 5px;
