@@ -22,6 +22,10 @@ main > h1 {
   font-size: 3.5em;
 }
 
+main > imageofprojects{
+  align-content: center;
+}
+
 maintext > h2{
   background-color: rgba(0, 0, 0, 0.40);
   width: 52.6%;
