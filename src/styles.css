@@ -48,3 +48,24 @@ kontaktinfo > h6{
   padding-left: unset;
   padding-right: 25px;
 }
+
+a:link {
+  color: rgb(184, 184, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
