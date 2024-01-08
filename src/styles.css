@@ -24,10 +24,10 @@ main > h1 {
 
 textofprojects > p{
   background-color: rgba(0, 0, 0, 0.40);
-  width: 52.6%;
-  padding-bottom: 24px;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
   text-align: center;
-  ruby-align: center;
 }
 
 maintext > p{
