@@ -25,8 +25,9 @@ main > h1 {
 textofprojects > p{
   background-color: rgba(0, 0, 0, 0.40);
   width: 52.6%;
-  margin-left: 364px;
+  align-self: center;
   padding-bottom: 24px;
+  text-align: center;
 }
 
 maintext > p{
