@@ -79,10 +79,12 @@ a:active {
 .left, .right{
   float: left;
   width: 30%;
+  text-align: center;
 }
 .main{
   float: left;
   width: 40%;
+  text-align: center;
 }
 @media Screen and (max-width:650px){
   .left .main .right{
