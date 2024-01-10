@@ -77,7 +77,7 @@ a:active {
   text-decoration: underline;
 }
 .left, .right{
-  float: left ;
+  float: left;
   width: 30%;
 }
 .main{
