@@ -81,14 +81,16 @@ a:active {
 .left, .right{
   float: left ;
   width: 20%;
+  background-color: rgba(0, 0, 0, 0.40);
 }
 .main{
   float: left;
   width: 60%;
+  background-color: rgba(0, 0, 0, 0.40);
 }
 @media screen and (max-width:800px){
   .left .main .right {
     width: 100%;
-
+    background-color: rgba(0, 0, 0, 0.40);
   }
 }
