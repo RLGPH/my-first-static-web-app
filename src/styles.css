@@ -82,6 +82,8 @@ a:active {
   float: left ;
   width: 20%;
   background-color: rgba(0, 0, 0, 0.40);
+  padding-left: 50%;
+  padding-right: 50%;
 }
 .main{
   float: left;
