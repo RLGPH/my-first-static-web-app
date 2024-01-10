@@ -81,8 +81,6 @@ a:active {
 .left, .right{
   float: left ;
   width: 20%;
-  padding-left: 50%;
-  padding-right: 50%;
 }
 .main{
   float: left;
