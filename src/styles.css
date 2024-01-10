@@ -44,9 +44,6 @@ maintext > p{
 }
 
 footer{
-  margin-top: 10px;
-  margin-bottom: 20px;
-  padding-left: 25px;
   background-color: rgba(0, 0, 0, 0.40);
 }
 
@@ -80,11 +77,11 @@ a:active {
 }
 .left, .right{
   float: left ;
-  width: 20%;
+  width: 30%;
 }
 .main{
   float: left;
-  width: 60%;
+  width: 40%;
 }
 @media screen and (max-width:800px){
   .left .main .right {
